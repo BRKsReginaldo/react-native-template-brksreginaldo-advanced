@@ -1,0 +1,14 @@
+{
+  "axios": "latest",
+  "lodash": "latest",
+  "prop-types": "latest",
+  "react-native-gesture-handler": "latest",
+  "react-native-vector-icons": "latest",
+  "react-navigation": "latest",
+  "react-redux": "latest",
+  "reactotron-react-native": "latest",
+  "reactotron-redux": "latest",
+  "redux": "latest",
+  "redux-thunk": "latest",
+  "styled-components": "latest"
+}
